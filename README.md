@@ -62,6 +62,9 @@ uvicorn --host 0.0.0.0 --port 8000 --reload --log-level debug src.app:app
 
 ### 使用 docker 部署
 
+```shell
+docker run --rm -p 8000:8000 -v /path/to/.env:/trae-api/.env ghcr.io/a-23187/trae-api:latest
+```
 
 ## 免责声明
 
