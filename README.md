@@ -73,3 +73,7 @@ docker run --rm -p 8000:8000 -v /path/to/.env:/trae-api/.env ghcr.io/a-23187/tra
 ## 许可证
 
 [MIT License](https://github.com/A-23187/trae-api/blob/main/LICENSE)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=A-23187/trae-api&type=Date)](https://www.star-history.com/#A-23187/trae-api&Date)
